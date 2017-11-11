@@ -10,13 +10,15 @@ A CraftCMS project that manages a golf blog.
 
 ## [Magento 2 Attribute Description](https://github.com/dmatthew/magento2-attribute-description)
 
-A Magento 2 module for managing descriptions of product attributes.
+A Magento 2 module for managing descriptions of product attributes. The idea came up when I was working on a client website whose product attributes were not as simple as "Size" and "Color". We needed a way to let content managers display helpful text on the page that would describe what an attribute meant, which was difficult if all you have to describe is the attribute's title. By using the Magento 2 Attribute Description, Magento 2 store owners can add descriptions to their product attributes that they can then display on the frontends of their sites.
+
+![Screenshot of Attribute Descriptions in Admin](https://github.com/dmatthew/magento2-attribute-description/blob/master/docs/screenshots/admin_attribute_edit_descriptions.png)
 
 ***
 
 ## [Magento 2 Ajax Compare](https://github.com/dmatthew/magento-ajax-compare)
 
-A Magento 2 module that implements Ajax requests when comparing products so the page does not requrie a reload.
+A Magento 2 module that implements Ajax requests when comparing products so the page does not require a full reload.
 
 ***
 
@@ -28,4 +30,6 @@ A Magento 2 module for managing brands.
 
 ## [My Secret Language](https://github.com/dmatthew/my-secret-language)
 
-An AngularJS v1.2 single page app that lets you create your own language.
+An AngularJS v1.2 single page app that lets you create your own language. The app also uses Intel's UI [App Framework](https://github.com/intel/appframework), which is a UI framework built for single page HTML5 apps.
+
+![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.png)
