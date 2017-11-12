@@ -4,7 +4,7 @@
 
 ## [GolfPOD](https://github.com/dmatthew/golfpod)
 
-A CraftCMS project that manages a golf blog.
+A CraftCMS project that manages a golf blog. You can view the site [here](http://golfpod.matthewdavis.work).
 
 ***
 
