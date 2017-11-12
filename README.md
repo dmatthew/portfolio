@@ -4,7 +4,7 @@
 
 ## [GolfPOD](https://github.com/dmatthew/golfpod)
 
-A CraftCMS project that manages a golf blog. You can view the site <a href="http://golfpod.matthewdavis.work/" target="_blank">here</a>.
+A CraftCMS project that manages a golf blog. You can view the site [here](http://golfpod.matthewdavis.work/).
 
 ***
 
@@ -30,6 +30,6 @@ A Magento 2 module for managing brands.
 
 ## [My Secret Language](https://github.com/dmatthew/my-secret-language)
 
-An AngularJS v1.2 single page app that lets you create your own language. The app also uses Intel's UI [App Framework](https://github.com/intel/appframework), which is a UI framework built for single page HTML5 apps. I used the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection. You can checkout the My Secret Language app at <a href="http://msl.matthewdavis.work/" target="_blank">msl.matthewdavis.work</a>.
+An AngularJS v1.2 single page app that lets you create your own language. The app also uses Intel's UI [App Framework](https://github.com/intel/appframework), which is a UI framework built for single page HTML5 apps. I used the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection. You can checkout the My Secret Language app at [msl.matthewdavis.work](http://msl.matthewdavis.work/).
 
 ![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.png)
