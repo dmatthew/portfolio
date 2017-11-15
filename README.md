@@ -4,7 +4,7 @@
 
 ## [GolfPOD](https://github.com/dmatthew/golfpod)
 
-A CraftCMS project that manages a golf blog. You can view the site [here](http://golfpod.matthewdavis.work/).
+A CraftCMS project that manages a golf blog. You can view the live site [here](http://golfpod.matthewdavis.work/).
 
 ***
 
@@ -18,7 +18,7 @@ A Magento 2 module for managing descriptions of product attributes. The idea cam
 
 ## [Magento 2 Ajax Compare](https://github.com/dmatthew/magento-ajax-compare)
 
-A Magento 2 module that implements Ajax requests when comparing products so the page does not require a full reload.
+A Magento 2 module that implements Ajax requests when comparing products so the page does not require a full reload. This provides a better user experience as adding products to the comparison list does not reload the entire page.
 
 ***
 
