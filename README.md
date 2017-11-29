@@ -6,6 +6,10 @@
 
 A CraftCMS project that manages a golf blog. You can view the live site [here](http://golfpod.matthewdavis.work/).
 
+The application is built with SASS for CSS. I created an easy way to develop locally by using Vagrant and Chef. Once you have the necessary dependencies installed on your system, you can just run `vagrant up` from the project root and your virtual machines will be created so you don't have to worry about setting up your own servers.
+
+The project also contains a CircleCI config file for automated deployments.
+
 ***
 
 ## [Magento 2 Attribute Description](https://github.com/dmatthew/magento2-attribute-description)
