@@ -36,4 +36,4 @@ A Magento 2 module for managing brands.
 
 Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I used the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection. You can check out the My Secret Language app at [msl.matthewdavis.work](http://msl.matthewdavis.work/).
 
-![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.png)
+![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.jpg)
