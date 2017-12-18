@@ -2,6 +2,14 @@
 
 ### This is a list of my software side projects
 
+## [My Secret Language](https://github.com/dmatthew/my-secret-language)
+
+Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I use the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection. You can check out the My Secret Language app at [msl.matthewdavis.work](http://msl.matthewdavis.work/).
+
+![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.jpg)
+
+***
+
 ## [GolfPOD](https://github.com/dmatthew/golfpod)
 
 A **CraftCMS** project that manages a golf blog. You can view the live site [here](http://golfpod.matthewdavis.work/).
@@ -29,11 +37,3 @@ A Magento 2 module that implements Ajax requests when comparing products so the 
 ## [Magento 2 Brands](https://github.com/dmatthew/magento2-module-brand)
 
 A Magento 2 module for managing brands.
-
-***
-
-## [My Secret Language](https://github.com/dmatthew/my-secret-language)
-
-Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I used the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection. You can check out the My Secret Language app at [msl.matthewdavis.work](http://msl.matthewdavis.work/).
-
-![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.jpg)
