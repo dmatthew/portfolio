@@ -37,3 +37,7 @@ A Magento 2 module that implements Ajax requests when comparing products so the 
 ## [Magento 2 Brands](https://github.com/dmatthew/magento2-module-brand)
 
 A Magento 2 module for managing brands.
+
+## [CSS Playground](https://github.com/dmatthew/css_playground)
+
+Where I play around with CSS and try to build cool new things with CSS3 and HTML5.
