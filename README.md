@@ -24,7 +24,7 @@ The project also contains a CircleCI config file for automated deployments.
 
 A Magento 2 module for managing descriptions of product attributes. The idea came up when I was working on a client website whose product attributes were not as simple as "Size" and "Color". We needed a way to let content managers display helpful text on the page that would describe what an attribute meant, which was difficult if all you have to describe is the attribute's title. By using the Magento 2 Attribute Description, Magento 2 store owners can add descriptions to their product attributes that they can then display on the frontends of their sites.
 
-![Screenshot of Attribute Descriptions in Admin](https://github.com/dmatthew/magento2-attribute-description/blob/master/docs/screenshots/admin_attribute_edit_descriptions.png)
+![Screenshot of Attribute Descriptions in Admin](https://github.com/dmatthew/magento2-attribute-description/blob/master/docs/screenshots/admin_edit_attribute_descriptions.png)
 
 ***
 
