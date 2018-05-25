@@ -24,7 +24,15 @@ The project also contains a CircleCI config file for automated deployments.
 
 A Magento 2 module for managing descriptions of product attributes. The idea came up when I was working on a client website whose product attributes were not as simple as "Size" and "Color". We needed a way to let content managers display helpful text on the page that would describe what an attribute meant, which was difficult if all you have to describe is the attribute's title. By using the Magento 2 Attribute Description, Magento 2 store owners can add descriptions to their product attributes that they can then display on the frontends of their sites.
 
+I'm very proud to say that this module is actually helping people on their Magento websites, as evidenced by someone using this module as an accepted [answer on magento.stackexchange.com](https://magento.stackexchange.com/questions/212354/product-attribute-description-on-the-product-page).
+
 ![Screenshot of Attribute Descriptions in Admin](https://github.com/dmatthew/magento2-attribute-description/blob/master/docs/screenshots/admin_edit_attribute_descriptions.png)
+
+***
+
+## [Magento 2 Hover Image](https://github.com/dmatthew/magento2-hover-image)
+
+Adds a hover image feature to Magento 2 websites on category pages so when a user hovers over the product image it changes to a second image. Very useful for Ecommerce Managers and site owners to display mutiple product images on category pages.
 
 ***
 
