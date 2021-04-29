@@ -4,7 +4,7 @@
 
 ## [My Secret Language](https://github.com/dmatthew/my-secret-language)
 
-Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I use the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection. You can check out the My Secret Language app at [msl.matthewdavis.work](http://msl.matthewdavis.work/).
+Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I use the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection.
 
 ![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.jpg)
 
@@ -12,7 +12,7 @@ Originally an **AngularJS v1.2** project, it is now a **React** single page app 
 
 ## [GolfPOD](https://github.com/dmatthew/golfpod)
 
-A **CraftCMS** project that manages a golf blog. You can view the live site [here](http://golfpod.matthewdavis.work/).
+A **CraftCMS** project that manages a golf blog.
 
 The application is built with Sass for CSS. I created an easy way to develop locally by using Vagrant and Chef. Once you have the necessary dependencies installed on your system, you can just run `vagrant up` from the project root and your virtual machines will be created so you don't have to worry about setting up your own servers.
 
