@@ -10,16 +10,6 @@ Originally an **AngularJS v1.2** project, it is now a **React** single page app 
 
 ***
 
-## [GolfPOD](https://github.com/dmatthew/golfpod)
-
-A **CraftCMS** project that manages a golf blog.
-
-The application is built with Sass for CSS. I created an easy way to develop locally by using Vagrant and Chef. Once you have the necessary dependencies installed on your system, you can just run `vagrant up` from the project root and your virtual machines will be created so you don't have to worry about setting up your own servers.
-
-The project also contains a CircleCI config file for automated deployments.
-
-***
-
 ## [Magento 2 Attribute Description](https://github.com/dmatthew/magento2-attribute-description)
 
 A Magento 2 module for managing descriptions of product attributes. The idea came up when I was working on a client website whose product attributes were not as simple as "Size" and "Color". We needed a way to let content managers display helpful text on the page that would describe what an attribute meant, which was difficult if all you have to describe is the attribute's title. By using the Magento 2 Attribute Description, Magento 2 store owners can add descriptions to their product attributes that they can then display on the frontends of their sites.
@@ -33,6 +23,16 @@ I'm very proud to say that this module is actually helping people on their Magen
 ## [Magento 2 Hover Image](https://github.com/dmatthew/magento2-hover-image)
 
 Adds a hover image feature to Magento 2 websites on category pages so when a user hovers over the product image it changes to a second image. Very useful for Ecommerce Managers and site owners to display mutiple product images on category pages.
+
+***
+
+## [GolfPOD](https://github.com/dmatthew/golfpod)
+
+A **CraftCMS** project that manages a golf blog.
+
+The application is built with Sass for CSS. I created an easy way to develop locally by using Vagrant and Chef. Once you have the necessary dependencies installed on your system, you can just run `vagrant up` from the project root and your virtual machines will be created so you don't have to worry about setting up your own servers.
+
+The project also contains a CircleCI config file for automated deployments.
 
 ***
 
