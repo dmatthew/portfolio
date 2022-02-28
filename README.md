@@ -6,7 +6,7 @@
 
 Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I use the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection.
 
-![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/master/docs/screenshots/app-home.jpg)
+![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/main/docs/screenshots/app-home.jpg)
 
 ***
 
@@ -26,7 +26,7 @@ A Magento 2 module for managing descriptions of product attributes. The idea cam
 
 I'm very proud to say that this module is actually helping people on their Magento websites, as evidenced by someone using this module as an accepted [answer on magento.stackexchange.com](https://magento.stackexchange.com/questions/212354/product-attribute-description-on-the-product-page).
 
-![Screenshot of Attribute Descriptions in Admin](https://github.com/dmatthew/magento2-attribute-description/blob/master/docs/screenshots/admin_edit_attribute_descriptions.png)
+![Screenshot of Attribute Descriptions in Admin](https://github.com/dmatthew/magento2-attribute-description/blob/main/docs/screenshots/admin_edit_attribute_descriptions.png)
 
 ***
 
