@@ -4,7 +4,7 @@
 
 ## [My Secret Language](https://github.com/dmatthew/my-secret-language)
 
-Originally an **AngularJS v1.2** project, it is now a **React** single page app that lets you create your own secret language. I use the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection.
+Originally an **AngularJS v1.2** project, it is now a **React** single page app built with Next.js that lets you create your own secret language. I use the Local Storage API for offline storage. Users are able to use the app anywhere, even without an internet connection.
 
 ![Screenshot of app home screen](https://github.com/dmatthew/my-secret-language/blob/main/docs/screenshots/app-home.jpg)
 
